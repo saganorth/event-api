@@ -1,0 +1,148 @@
+{
+  "mässInfo": {
+    "namn": "Årliga Virkmässan",
+    "plats": "Stockholmsmässan, Älvsjö",
+    "datum": "2024-08-15 till 2024-08-18",
+    "öpping": "10:00",
+    "stängning": "18:00",
+    "imageUrl": "/img/yarnball.webp",
+    "beskrivning": "Välkommen till Årliga Virkmässan - en samlingsplats för garnentusiaster, hantverkare och designers. Upptäck de senaste trenderna inom virkning, delta i workshops och träffa likasinnade."
+  },
+  "områden": [
+    {
+      "id": 1,
+      "namn": "Garnmarknaden",
+      "imageUrl": "/img/garn.jpeg",
+      "beskrivning": "Ett paradis för garnälskare med ett brett utbud av garn i olika färger och material.",
+      "öppettider": "10:00 - 18:00",
+      "extraInfo": "Workshops i stickning och virkning varje timme."
+    },
+    {
+      "id": 2,
+      "namn": "Hantverksförsäljare",
+      "imageUrl": "/img/market.jpeg",
+      "beskrivning": "Lokala hantverkare visar och säljer sina unika skapelser.",
+      "öppettider": "10:00 - 18:00",
+      "extraInfo": "Möjlighet till skräddarsydda beställningar på plats."
+    },
+    {
+      "id": 3,
+      "namn": "Foodtrucks",
+      "imageUrl": "/img/foodtrucks.png",
+      "beskrivning": "Här kan du stanna till för att äta god mat.",
+      "öppettider": "11:00 - 15:00",
+      "extraInfo": "info gällande allergier finns att läsa vid vare truck"
+    },
+    {
+      "id": 4,
+      "namn": "Scenen",
+      "imageUrl": "/img/scenen.jpeg",
+      "beskrivning": "Under helgen kommer det hållas paneler, diskutioner samt föreläsningar ibland annat hållbarhet och framgång.",
+      "öppettider": "9:00 - 18:00",
+      "extraInfo": "för mer info se schemat"
+    }
+  ],
+  "besokare": [
+    {
+      "firstName": "Saga",
+      "lastName": "Nord",
+      "email": "saga.nord99@hotmail.se",
+      "telNumber": "0708227786"
+    },
+    {
+      "firstName": "Saga",
+      "lastName": "Nord",
+      "email": "saga.nord99@hotmail.se",
+      "telNumber": "0708227786"
+    },
+    {
+      "firstName": "Saga",
+      "lastName": "Nord",
+      "email": "saga.nord99@hotmail.se",
+      "telNumber": "0708227786"
+    },
+    {
+      "firstName": "alva",
+      "lastName": "Nord",
+      "email": "saga.ola@hotmail.se",
+      "telNumber": "0708227324"
+    },
+    {
+      "firstName": "Saga",
+      "lastName": "Nord",
+      "email": "saga.nord99@hotmail.se",
+      "telNumber": "0708227786"
+    },
+    {
+      "firstName": "loav",
+      "lastName": "gfddfg",
+      "email": "fdsfdg@gkdg.com",
+      "telNumber": "0708227786"
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "telNumber": ""
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "telNumber": ""
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "telNumber": ""
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "telNumber": ""
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "telNumber": ""
+    },
+    {
+      "firstName": "uyhg",
+      "lastName": "iujhgvbhjk",
+      "email": "kjufgiupo",
+      "telNumber": "978664",
+      "ticketType": "two-day"
+    },
+    {
+      "firstName": "uyhg",
+      "lastName": "iujhgvbhjk",
+      "email": "kjufgiupo",
+      "telNumber": "978664",
+      "ticketType": "two-day"
+    },
+    {
+      "firstName": "uyhg",
+      "lastName": "iujhgvbhjk",
+      "email": "kjufgiupo",
+      "telNumber": "978664",
+      "ticketType": "one-day"
+    },
+    {
+      "firstName": "jol",
+      "lastName": "hghgh",
+      "email": "hjhfg",
+      "telNumber": "8984567890",
+      "ticketType": "one-day"
+    },
+    {
+      "firstName": "yugkjhkjhjkh",
+      "lastName": "Nord",
+      "email": "saga.nord99@hotmail.se",
+      "telNumber": "0708227786",
+      "ticketType": "two-day"
+    }
+  ]
+}
