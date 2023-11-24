@@ -8,7 +8,7 @@
     "imageUrl": "/img/yarnball.webp",
     "beskrivning": "Välkommen till Årliga Virkmässan - en samlingsplats för garnentusiaster, hantverkare och designers. Upptäck de senaste trenderna inom virkning, delta i workshops och träffa likasinnade."
   },
-  "områden": [
+  "omraden": [
     {
       "id": 1,
       "namn": "Garnmarknaden",
@@ -139,6 +139,13 @@
     },
     {
       "firstName": "yugkjhkjhjkh",
+      "lastName": "Nord",
+      "email": "saga.nord99@hotmail.se",
+      "telNumber": "0708227786",
+      "ticketType": "two-day"
+    },
+    {
+      "firstName": "Saga",
       "lastName": "Nord",
       "email": "saga.nord99@hotmail.se",
       "telNumber": "0708227786",
